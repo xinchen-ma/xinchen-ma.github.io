@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2104_crop.png"
+  avatar           : "IMG_2104_crop.PNG"
   name             : "Xinchen Ma"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Finance"
   location         : #""
-  employer         : "London School of Economics and Political Science"
+  employer         : "London School of Economics"
   uri              : # URL
   email            : "x.ma25@lse.ac.uk" 
 
