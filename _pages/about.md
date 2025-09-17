@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<br><br>
 Welcome! 
 
-I am a Ph.D. Candidate in Finance at the London School of Economics and Political Science. I am on the 2025-2026 job market.  
-My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**.
+I am a Ph.D. Candidate in Finance at the London School of Economics and Political Science. I am on the 2025-2026 job market. My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**.
 
 Email: x.ma25@lse.ac.uk
 
