@@ -19,7 +19,7 @@ Email: x.ma25@lse.ac.uk
 
 Working Papers
 ======
-## Open Banking and Fintech Innovation Adoption: Evidence from Mobile Apps *(Job Market Paper)*
+## Open Banking and Fintech Innovation Adoption: Evidence from Mobile Apps (Job Market Paper)
 
 **Abstract:** This paper examines the impact of open banking adoption on competition and innovation in digital financial services. I construct a novel dataset by decompiling historical Android app source code to identify open banking API integrations among finance apps in the UK and EU. Linking this with monthly app performance data, I find that adoption significantly increases downloads, user activity, and revenue. Exploiting cross-country variation in authorization status within the same app, I provide causal evidence that access to consumer banking data drives these gains. Benefits are amplified during periods of heightened demand: apps with open banking performed better during the COVID-19 shock, particularly in lending, investment, and among startup fintechs. On the supply side, incumbent banks most exposed to open banking—especially in lending—face the strongest pressure, but respond by raising fee intensity and asset yields. Thus, banks are not only hurt but also adapt strategically. Overall, open banking fosters innovation while reshaping competition in the mobile finance ecosystem.
 
