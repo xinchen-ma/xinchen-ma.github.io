@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+title: ""
 layout: single
 classes: [wide]        # array form is safest; use [full] if you want very wide
 author_profile: true   # set to false if you don't want the sidebar/photo
@@ -17,16 +17,16 @@ Email: x.ma25[at]lse.ac.uk
 
 
 ------
-### Working Papers {#research}
+## Working Papers {#research}
 
-#### Open Banking and Fintech Innovation Adoption: Evidence from Mobile Apps (Job Market Paper)
+### Open Banking and Fintech Innovation Adoption: Evidence from Mobile Apps (Job Market Paper)
 
 **Abstract:** This paper examines the impact of open banking adoption on competition and innovation in digital financial services. I construct a novel dataset by decompiling historical Android app source code to identify open banking API integrations among finance apps in the UK and EU. Linking this with monthly app performance data, I find that adoption significantly increases downloads, user activity, and revenue. Exploiting cross-country variation in authorization status within the same app, I provide causal evidence that access to consumer banking data drives these gains. Benefits are amplified during periods of heightened demand: apps with open banking performed better during the COVID-19 shock, particularly in lending, investment, and among startup fintechs. On the supply side, incumbent banks most exposed to open banking—especially in lending—face the strongest pressure, but respond by raising fee intensity and asset yields. Thus, banks are not only hurt but also adapt strategically. Overall, open banking fosters innovation while reshaping competition in the mobile finance ecosystem.
 
 - **Presented at:** AFA 2026 PhD Student Poster (scheduled), Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, LSE PhD Workshop
 <br><br>
 
-#### The Supply and Demand for Data Privacy: Evidence from Mobile Apps 
+### The Supply and Demand for Data Privacy: Evidence from Mobile Apps 
 with **Huan Tang** and **Bo Bian**
 
 **Reject & Resubmit** at _Journal of Political Economy_
@@ -41,29 +41,29 @@ with **Huan Tang** and **Bo Bian**
 
 
 ------
-### Work in Progress
+## Work in Progress
 
-#### Data-driven Partnership among Firms: Evidence from GDPR
+### Data-driven Partnership among Firms: Evidence from GDPR
 
 GDPR incentivizes data-driven partnerships that create value for firms. However, the increase is muted in Europe, leaving the region at a disadvantage in this emerging area of competition. 
 
-#### The Effect of Apple Transparency Tracking: An Analysis on App Monetization
+### The Effect of Apple Transparency Tracking: An Analysis on App Monetization
 
 Tracking apps face significant declines in downloads and revenue after Apple's App Tracking Transparency. In response, they adjust ad strategies, adopt alternative SDKs, and raise in-app prices.
 
 
 
 ------
-### Teaching {#teaching}
+## Teaching {#teaching}
 
-#### LSE Class Teacher
+### LSE Class Teacher
 - FM310 Corporate Finance, Investments and Financial Markets I, 2024 - 2025
 - FM300 Corporate Finance, Investments and Financial Markets, 2023 - 2024
 - FM212 Principle of Finance, 2021 - 2023
 - FM250 Finance (Summer School), 2023
 - FM255 Financial Markets and Portfolio Management (Summer School), 2021
 
-#### LSE Teaching Assistant
+### LSE Teaching Assistant
 - EE951 Corporate Finance and Strategy (Executive Program), 2023 - 2025
 
 I was awarded the **LSE Class Teacher Award** in 2022, 2023, and 2024, and was nominated for the **LSE Student Union Outstanding Teacher** in 2023. 
