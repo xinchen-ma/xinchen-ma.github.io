@@ -19,7 +19,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-titles-from-headings
 #title                    : ""
