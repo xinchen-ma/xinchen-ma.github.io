@@ -194,9 +194,9 @@ h2 a, h3 a, h4 a {
   opacity: 1; margin: 1rem 0;
 }
 
-.author__avatar img {
+/* .author__avatar img {
   border: 1.5px solid color-mix(in srgb, currentColor var(--rule-alpha), transparent);
-}
+} */
 
 /* Use the same adaptive hairline under the top nav/header */
 :root { --rule-alpha: 35%; } /* keep or tweak to taste */
