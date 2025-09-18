@@ -90,3 +90,17 @@ h1, h2, h3, h4, h5, h6,
   font-weight: 600;   /* 600 gives strong emphasis, but not too bold */
   line-height: 1.3;   /* a bit more breathing room than sans-serif */
 }
+
+
+/* Override: Your name (the page title at top) */
+.page__title {
+  font-family: "Segoe UI", Calibri, Arial, sans-serif;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+/* Override: Section titles (Working Papers, Work in Progress, Teaching) */
+h2 {
+  font-family: "Segoe UI", Calibri, Arial, sans-serif;
+  font-weight: 600;
+}
