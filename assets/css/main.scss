@@ -42,38 +42,35 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ==========================================================================
-   CUSTOM STYLES - More specific selectors
+Perfect! Now that the red border is gone, let's debug the width issue.
+Add the debug CSS I provided earlier to your main.scss file - replace your current custom CSS section with this version that has colored backgrounds:
+css/* ==========================================================================
+   CUSTOM STYLES - Debug and fix width
    ========================================================================== */
 
-/* Target the main layout containers directly */
+/* First, let's see what elements we're dealing with */
 .page__inner-wrap {
+  background: yellow !important;  /* Temporary - to see the element */
   max-width: 1100px !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
 .page__content {
+  background: lightblue !important;  /* Temporary - to see the element */
   max-width: none !important;
   width: 100% !important;
 }
 
-/* If wide class is applied to body */
-body.wide .page__inner-wrap {
+/* Override any theme defaults that might be more specific */
+.layout--single .page__inner-wrap,
+body .page__inner-wrap,
+#main .page__inner-wrap {
   max-width: 1100px !important;
+  margin: 0 auto !important;
 }
 
-/* If wide class is applied to main */
-#main.wide .page__inner-wrap {
-  max-width: 1100px !important;
-}
-
-/* If wide class is applied to the page article */
-article.page.wide .page__inner-wrap {
-  max-width: 1100px !important;
-}
-
-/* Also target the masthead to match */
+/* Also make the masthead match */
 .masthead__inner-wrap {
   max-width: 1100px !important;
   margin-left: auto !important;
