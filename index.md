@@ -14,9 +14,8 @@ I am a Ph.D. Candidate in Finance at the London School of Economics and Politica
 Email: x.ma25[at]lse.ac.uk
 
 <!-- My first name, Xinchen, is pronounced “SHEEN-chen”. -->
-
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
-<br>
+
 ## Job Market Paper {#research}
 
 ### Open Banking and Competition in Banks and Fintech: Evidence from Mobile Apps
@@ -25,7 +24,6 @@ Email: x.ma25[at]lse.ac.uk
 
 - **Presented at:** AFA 2026 PhD Student Poster (scheduled), Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, LSE PhD Workshop
 
-<br>
 ## Working Paper
 
 ### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541)
@@ -40,7 +38,6 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 - **Presented at:** SITE 2024, FIRS 2024, EFA 2023, SFS Cavalcade 2023, AEA 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop
 
-<br>
 ## Work in Progress
 
 ### Data-driven Partnership among Firms: Evidence from GDPR
@@ -51,7 +48,6 @@ GDPR incentivizes data-driven partnerships that create value for firms. However,
 
 Tracking apps face significant declines in downloads and revenue after Apple's App Tracking Transparency. In response, they adjust ad strategies, adopt alternative SDKs, and raise in-app prices.
 
-<br>
 ## Teaching {#teaching}
 
 ### LSE Class Teacher
