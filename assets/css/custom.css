@@ -74,17 +74,21 @@
 
 /* ====== Fonts ====== */
 
-/* Serif body text */
+
+
+/* Serif body text (Georgia) */
 body {
   font-family: Georgia, Cambria, "Times New Roman", serif;
-  line-height: 1.6;   /* optional: improves readability */
-  font-size: 17px;    /* optional: slightly larger, looks good in Georgia */
+  line-height: 1.6;
+  font-size: 17px;
 }
 
-/* Sans-serif headings + navigation */
+/* Lighter sans-serif for titles and headings */
 h1, h2, h3, h4, h5, h6,
-nav,
-.greedy-nav {
-  font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-weight: 700;
+.page__title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;   /* lighter than 700, makes titles less heavy */
+  line-height: 1.2;   /* tighter, helps fit titles in fewer lines */
 }
+
+
