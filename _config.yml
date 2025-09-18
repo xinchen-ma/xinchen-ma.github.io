@@ -273,6 +273,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
       share: true
       comments: true
   # _publications
@@ -282,6 +283,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
       share: true
       comments: true
   # _portfolio
@@ -291,6 +293,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
       share: true
       comment: true
   # _talks
@@ -300,6 +303,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
+      classes: wide
       share: true
 
 
