@@ -3,7 +3,7 @@ permalink: /
 title: "Xinchen Ma"
 layout: home
 classes: wide   # or: full
-author_profile: false
+author_profile: true
 sidebar: false
 ---
 
