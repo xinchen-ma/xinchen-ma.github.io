@@ -8,7 +8,20 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "jekyll-theme-primer" # Currently available options are "default", "air"
+# ---- THEME ----
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# (remove any existing `theme:` line)
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-titles-from-headings
 #title                    : ""
 #title_separator          : "-"
 name                     : &name "Your Name"
