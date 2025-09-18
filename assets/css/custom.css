@@ -119,3 +119,11 @@ h2 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
 }
+
+
+
+/* Fix vertical alignment for nav links that contain <a> directly */
+.masthead__menu-item a {
+  display: inline-block;
+  vertical-align: middle;
+}
