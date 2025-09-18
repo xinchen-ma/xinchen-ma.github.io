@@ -16,7 +16,6 @@ Email: x.ma25[at]lse.ac.uk
 <!-- My first name, Xinchen, is pronounced “SHEEN-chen”. -->
 
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
-
 <br>
 ## Job Market Paper {#research}
 
@@ -25,7 +24,6 @@ Email: x.ma25[at]lse.ac.uk
 **Abstract:** This paper examines the impact of open banking adoption on competition and innovation in digital financial services. I construct a novel dataset by decompiling historical Android app source code to identify open banking API integrations among finance apps in the UK and EU. Linking this with monthly app performance data, I find that adoption significantly increases downloads, user activity, and revenue. Exploiting cross-country variation in authorization status within the same app, I provide causal evidence that access to consumer banking data drives these gains. Benefits are amplified during periods of heightened demand: apps with open banking performed better during the COVID-19 shock, particularly in lending, investment, and among startup fintechs. On the supply side, incumbent banks most exposed to open banking—especially in lending—face the strongest pressure, but respond by raising fee intensity and asset yields. Thus, banks are not only hurt but also adapt strategically. Overall, open banking fosters innovation while reshaping competition in the mobile finance ecosystem.
 
 - **Presented at:** AFA 2026 PhD Student Poster (scheduled), Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, LSE PhD Workshop
-
 <br>
 ## Working Paper
 
@@ -40,7 +38,6 @@ with **Huan Tang** and **Bo Bian**
 - **Award:** Best Paper Award at the Annual Conference in Digital Economics 2022 
 
 - **Presented at:** SITE 2024, FIRS 2024, EFA 2023, SFS Cavalcade 2023, AEA 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop 
-
 <br>
 ## Work in Progress
 
