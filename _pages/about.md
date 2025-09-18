@@ -16,9 +16,6 @@ Email: x.ma25[at]lse.ac.uk
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
 
 
-
-
-## CV 
 ------
 ## Working Papers
 
@@ -57,7 +54,7 @@ Tracking apps face significant declines in downloads and revenue after Apple's A
 
 
 ------
-## Teaching
+## Teaching {#teaching}
 
 ### LSE Class Teacher
 - FM310 Corporate Finance, Investments and Financial Markets I, 2024 - 2025
