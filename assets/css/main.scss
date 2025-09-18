@@ -86,12 +86,3 @@ body .page__inner-wrap,
   margin-right: 0 !important;
 }
 
-/* ADD THIS NEW CSS FOR SPACING */
-.page__content {
-  padding-top: 60px !important; /* Adjust this value for more/less space */
-}
-
-/* Optional: If you want to reduce the space after the empty title */
-.page__title {
-  margin-bottom: 0 !important;
-}
