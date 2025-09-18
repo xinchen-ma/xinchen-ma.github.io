@@ -34,3 +34,6 @@
 
 .layout--single .page--wide .page__inner-wrap { max-width: 1100px; }
 .layout--single .page--full .page__inner-wrap { max-width: 1200px; }
+
+
+body { border: 5px solid red !important; }
