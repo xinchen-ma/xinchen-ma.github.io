@@ -22,7 +22,7 @@ main:
 
   - title: "CV"
     url: "/assets/CV_XinchenMA.pdf"
-    external: true
+    target: "_blank"
 
   - title: "Research"
     url: "/#research"
