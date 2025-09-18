@@ -1,10 +1,10 @@
 /* =========================================
    Header: push nav items to the right
    ========================================= */
-/* .greedy-nav .visible-links {
+.greedy-nav .visible-links {
   margin-left: auto;
   justify-content: flex-end;
-} */
+}
 /* ==========================================================================
    CUSTOM STYLES - Direct targeting (no wide class needed)
    ========================================================================== */
