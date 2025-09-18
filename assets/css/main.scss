@@ -41,3 +41,49 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* ==========================================================================
+   CUSTOM STYLES - ADD TO EXISTING main.scss
+   ========================================================================== */
+
+/* Test if this CSS file is loading */
+body { 
+  border: 5px solid red !important; 
+}
+
+/* Make content wider for pages with 'wide' class */
+.wide .page__inner-wrap {
+  max-width: 1100px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Ensure main content area is wider */
+.wide .page__content {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* Alternative selectors to try */
+.layout--single.wide .page__inner-wrap {
+  max-width: 1100px !important;
+}
+
+.wide .page {
+  max-width: 1100px !important;
+  margin: 0 auto !important;
+}
+
+/* Make sure sidebar + content layout works with wider content */
+.wide .page__content {
+  padding-right: 0 !important;
+}
+
+/* Header navigation adjustments for wider layout */
+.wide .masthead__inner-wrap,
+.wide .page__footer-follow .social-icons {
+  max-width: 1100px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
