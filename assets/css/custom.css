@@ -153,3 +153,24 @@ h2 a, h3 a, h4 a {
     display: none !important;
   }
 }
+
+/* Full-justify body copy only (not headings) */
+.page__content p,
+.page__content li {
+  text-align: justify;
+  text-justify: inter-word;   /* helps in some browsers */
+  hyphens: auto;              /* soft hyphenation for nicer breaks */
+}
+
+/* Keep headings, code, quotes left-aligned */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6,
+.page__content pre,
+.page__content code,
+.page__content blockquote {
+  text-align: left;
+}
