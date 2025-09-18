@@ -17,6 +17,12 @@
   padding-right: 20px !important;
 }
 
+/* Make the author photo larger */
+.author__avatar {
+  max-width: 220px !important;   /* default is ~200px */
+  height: auto !important;       /* keep aspect ratio */
+}
+
 /* Target the page inner wrap directly */
 .page__inner-wrap {
   max-width: none !important;
