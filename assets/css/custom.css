@@ -174,3 +174,14 @@ h2 a, h3 a, h4 a {
 .page__content blockquote {
   text-align: left;
 }
+
+/* Consistent, slightly smaller space before section headings */
+.page__content h2 {
+  margin-top: 1.1rem;     /* tweak to taste; smaller than a <br> line */
+  margin-bottom: 0.5rem;  /* keep the title close to its paragraph */
+}
+
+/* Don’t add extra space before the very first h2 on the page */
+.page__content h2:first-of-type {
+  margin-top: 0;
+}
