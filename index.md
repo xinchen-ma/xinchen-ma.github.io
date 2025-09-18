@@ -1,10 +1,10 @@
 ---
-layout: single
-classes: wide
-author_profile: true
-sidebar: false      
-title: "Xinchen Ma"
 permalink: /
+title: "Xinchen Ma"
+layout: home
+classes: wide   # or: full
+author_profile: false
+sidebar: false
 ---
 
 Welcome! 
