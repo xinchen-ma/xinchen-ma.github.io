@@ -71,3 +71,20 @@
   padding-right: 10px !important; /* add some breathing room on the right */
   word-wrap: break-word;        /* prevent text overflow */
 }
+
+/* ====== Fonts ====== */
+
+/* Serif body text */
+body {
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  line-height: 1.6;   /* optional: improves readability */
+  font-size: 17px;    /* optional: slightly larger, looks good in Georgia */
+}
+
+/* Sans-serif headings + navigation */
+h1, h2, h3, h4, h5, h6,
+nav,
+.greedy-nav {
+  font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
