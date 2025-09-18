@@ -17,7 +17,7 @@ Email: x.ma25[at]lse.ac.uk
 
 
 ------
-## Working Papers
+## Working Papers {#research}
 
 ### Open Banking and Fintech Innovation Adoption: Evidence from Mobile Apps (Job Market Paper)
 
