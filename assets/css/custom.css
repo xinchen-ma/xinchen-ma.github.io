@@ -180,3 +180,30 @@ h2 a, h3 a, h4 a {
   margin-top: 4rem;     /* tweak to taste; smaller than a <br> line */
 }
 
+/* 1) Darker rule under section titles (your ## headings) */
+.page__content h2 {
+  border-bottom: 1px solid rgba(0,0,0,.35); /* tweak: .35 → .45 for darker */
+  padding-bottom: .3rem;
+  margin-bottom: .8rem;
+}
+
+/* 2) Darker <hr> lines anywhere in the content */
+.page__content hr {
+  border: 0;
+  height: 1px;
+  background: rgba(0,0,0,.35); /* or #888 for a fixed grey */
+  margin: 1rem 0;
+  opacity: 1; /* ensure visible */
+}
+
+/* 3) Darker ring around the author photo */
+.author__avatar img {
+  border: 1.5px solid rgba(0,0,0,.35); /* try #888 if you prefer */
+  box-shadow: none; /* optional: removes the soft shadow for a crisper ring */
+}
+
+/* (Optional) Darker border for the whole author card */
+.author__profile {
+  border: 1px solid rgba(0,0,0,.20); /* subtle; increase if you want more contrast */
+}
+
