@@ -42,44 +42,39 @@
     "vendor/font-awesome/brands"
 ;
 
-
 /* ==========================================================================
-   CUSTOM STYLES - ADD TO EXISTING main.scss
+   CUSTOM STYLES - More specific selectors
    ========================================================================== */
 
-
-
-/* Make content wider for pages with 'wide' class */
-.wide .page__inner-wrap {
+/* Target the main layout containers directly */
+.page__inner-wrap {
   max-width: 1100px !important;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
-/* Ensure main content area is wider */
-.wide .page__content {
+.page__content {
   max-width: none !important;
   width: 100% !important;
 }
 
-/* Alternative selectors to try */
-.layout--single.wide .page__inner-wrap {
+/* If wide class is applied to body */
+body.wide .page__inner-wrap {
   max-width: 1100px !important;
 }
 
-.wide .page {
+/* If wide class is applied to main */
+#main.wide .page__inner-wrap {
   max-width: 1100px !important;
-  margin: 0 auto !important;
 }
 
-/* Make sure sidebar + content layout works with wider content */
-.wide .page__content {
-  padding-right: 0 !important;
+/* If wide class is applied to the page article */
+article.page.wide .page__inner-wrap {
+  max-width: 1100px !important;
 }
 
-/* Header navigation adjustments for wider layout */
-.wide .masthead__inner-wrap,
-.wide .page__footer-follow .social-icons {
+/* Also target the masthead to match */
+.masthead__inner-wrap {
   max-width: 1100px !important;
   margin-left: auto !important;
   margin-right: auto !important;
