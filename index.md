@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
 layout: single
 classes: [wide]        # array form is safest; use [full] if you want very wide
 author_profile: true   # set to false if you don't want the sidebar/photo
