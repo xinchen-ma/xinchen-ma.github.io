@@ -2,7 +2,7 @@
 permalink: /
 title: Xinchen Ma
 layout: single
-classes: [wide]        # array form is safest; use [full] if you want very wide
+classes: [full]        # array form is safest; use [full] if you want very wide
 author_profile: true   # set to false if you don't want the sidebar/photo
 sidebar: null
 ---
