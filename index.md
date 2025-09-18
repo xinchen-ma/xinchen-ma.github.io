@@ -18,7 +18,7 @@ My first name, Xinchen, is pronounced “SHEEN-chen”.
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
 
 <br>
-## Working Papers {#research}
+## Job Market Paper {#research}
 
 ### Open Banking and Fintech Innovation Adoption: Evidence from Mobile Apps (Job Market Paper)
 
@@ -27,6 +27,8 @@ My first name, Xinchen, is pronounced “SHEEN-chen”.
 - **Presented at:** AFA 2026 PhD Student Poster (scheduled), Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, LSE PhD Workshop
 
 <br>
+## Working Paper
+
 ### The Supply and Demand for Data Privacy: Evidence from Mobile Apps 
 with **Huan Tang** and **Bo Bian**
 
