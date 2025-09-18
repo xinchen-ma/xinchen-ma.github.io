@@ -43,34 +43,45 @@
 ;
 
 /* ==========================================================================
-   CUSTOM STYLES - Debug and fix width
+   CUSTOM STYLES - Extend content to the right
    ========================================================================== */
 
-/* First, let's see what elements we're dealing with */
 .page__inner-wrap {
-  background: yellow !important;  /* Temporary - to see the element */
-  max-width: 1100px !important;
+  max-width: 1300px !important;  /* Increased from 1100px */
   margin-left: auto !important;
   margin-right: auto !important;
+  padding-right: 20px !important;  /* Reduced right padding */
 }
 
 .page__content {
-  background: lightblue !important;  /* Temporary - to see the element */
   max-width: none !important;
   width: 100% !important;
+  padding-right: 10px !important;  /* Minimal right padding */
 }
 
-/* Override any theme defaults that might be more specific */
+/* Override theme defaults */
 .layout--single .page__inner-wrap,
 body .page__inner-wrap,
 #main .page__inner-wrap {
-  max-width: 1100px !important;
+  max-width: 1300px !important;
   margin: 0 auto !important;
+  padding-right: 20px !important;
 }
 
-/* Also make the masthead match */
+/* Make sure the masthead matches */
 .masthead__inner-wrap {
-  max-width: 1100px !important;
+  max-width: 1300px !important;
   margin-left: auto !important;
   margin-right: auto !important;
+  padding-right: 20px !important;
+}
+
+/* Specifically target the main content area */
+#main {
+  padding-right: 10px !important;
+}
+
+/* Reduce any default margins on the right */
+.page {
+  margin-right: 0 !important;
 }
