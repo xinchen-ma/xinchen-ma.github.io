@@ -6,37 +6,49 @@
   justify-content: flex-end;
 }
 /* ==========================================================================
-   CUSTOM STYLES - Target your actual theme structure
+   CUSTOM STYLES - Direct targeting (no wide class needed)
    ========================================================================== */
 
-/* Target the main container */
+/* Target main container directly */
 #main {
   max-width: 1300px !important;
   margin: 0 auto !important;
+  padding-left: 20px !important;
   padding-right: 20px !important;
 }
 
-/* Target the article container */
-article.page {
-  max-width: none !important;
-  margin-right: 0 !important;
-}
-
-/* Target the inner wrap */
+/* Target the page inner wrap directly */
 .page__inner-wrap {
   max-width: none !important;
+  width: 100% !important;
+  margin: 0 !important;
   padding-right: 10px !important;
 }
 
-/* Target the actual content section */
-section.page__content {
+/* Target content section directly */
+.page__content {
   max-width: none !important;
   width: 100% !important;
   margin-right: 0 !important;
   padding-right: 5px !important;
 }
 
-/* Make sure paragraphs and other content extend fully */
+/* Make masthead match the width */
+.masthead__inner-wrap {
+  max-width: 1300px !important;
+  margin: 0 auto !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+/* Reduce sidebar width to give more space to content */
+.sidebar {
+  width: 180px !important;
+  flex: 0 0 180px !important;
+}
+
+/* Ensure all content elements use full width */
+.page__content > *,
 .page__content p,
 .page__content h1,
 .page__content h2,
@@ -44,16 +56,5 @@ section.page__content {
 .page__content ul,
 .page__content div {
   max-width: none !important;
-}
-
-/* Reduce the sidebar width to give more space to content */
-.sidebar {
-  width: 200px !important; /* Reduce from default */
-}
-
-/* Adjust the masthead to match */
-.masthead__inner-wrap {
-  max-width: 1300px !important;
-  margin: 0 auto !important;
-  padding-right: 20px !important;
+  width: 100% !important;
 }
