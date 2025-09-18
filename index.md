@@ -20,7 +20,7 @@ My first name, Xinchen, is pronounced “SHEEN-chen”.
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
 
 
-------
+
 ## Working Papers {#research}
 
 ### Open Banking and Fintech Innovation Adoption: Evidence from Mobile Apps (Job Market Paper)
@@ -44,7 +44,7 @@ with **Huan Tang** and **Bo Bian**
 
 
 
-------
+
 ## Work in Progress
 
 ### Data-driven Partnership among Firms: Evidence from GDPR
@@ -57,7 +57,7 @@ Tracking apps face significant declines in downloads and revenue after Apple's A
 
 
 
-------
+
 ## Teaching {#teaching}
 
 ### LSE Class Teacher
