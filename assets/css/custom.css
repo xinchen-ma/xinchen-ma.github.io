@@ -145,3 +145,9 @@ h2 a, h3 a, h4 a {
   color: inherit;
   text-decoration: underline;
 }
+
+/* Mobile: remove the Follow button and keep links expanded */
+@media (max-width: 768px) {
+  .author__urls-wrapper > button { display: none; }
+  .author__urls { display: block !important; }
+}
