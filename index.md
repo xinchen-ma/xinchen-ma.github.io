@@ -30,7 +30,7 @@ Email: x.ma25[at]lse.ac.uk
 
 ### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541)
 
-with **Huan Tang** and **Bo Bian**
+with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian.com/home)**
 
 **Reject & Resubmit** at _Journal of Political Economy_
 
