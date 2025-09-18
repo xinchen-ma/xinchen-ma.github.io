@@ -1,4 +1,0 @@
-/* Move header nav items to the right */
-.greedy-nav .visible-links {
-  margin-left: auto;
-}
