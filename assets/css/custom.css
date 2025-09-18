@@ -13,8 +13,3 @@
   margin-right: auto;
 }
 
-/* Optional: let images and tables stretch to new width */
-.page__content img,
-.page__content table {
-  max-width: 100%;
-}
