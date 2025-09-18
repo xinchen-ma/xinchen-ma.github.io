@@ -43,8 +43,8 @@
 
 /* Reduce sidebar width to give more space to content */
 .sidebar {
-  width: 180px !important;
-  flex: 0 0 180px !important;
+  width: 200px !important;
+  flex: 0 0 200px !important;
 }
 
 /* Ensure all content elements use full width */
