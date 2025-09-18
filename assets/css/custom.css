@@ -58,3 +58,10 @@
   max-width: none !important;
   width: 100% !important;
 }
+
+/* Expand the sidebar author box so text doesn't get cut off */
+.sidebar .author__content {
+  max-width: 100% !important;   /* allow it to use full space */
+  padding-right: 10px !important; /* add some breathing room on the right */
+  word-wrap: break-word;        /* prevent text overflow */
+}
