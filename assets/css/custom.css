@@ -127,3 +127,9 @@ h2 {
   display: inline-block;
   vertical-align: middle;
 }
+
+/* Links inside headings: keep underline, inherit color */
+h2 a, h3 a, h4 a {
+  color: inherit;        /* same color as the heading */
+  text-decoration: underline; 
+}
