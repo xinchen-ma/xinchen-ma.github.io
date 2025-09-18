@@ -139,3 +139,9 @@ h2 a, h3 a, h4 a {
   color: inherit;             /* same as surrounding text */
   text-decoration: none;      /* remove underline */
 }
+
+/* Exception: links inside h3 headings = inherit color, keep underline */
+.page__content h3 a {
+  color: inherit;
+  text-decoration: underline;
+}
