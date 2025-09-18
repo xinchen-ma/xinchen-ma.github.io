@@ -146,8 +146,10 @@ h2 a, h3 a, h4 a {
   text-decoration: underline;
 }
 
-/* Mobile: remove the Follow button and keep links expanded */
-@media (max-width: 768px) {
-  .author__urls-wrapper > button { display: none; }
-  .author__urls { display: block !important; }
+/* Mobile: hide author social links (button + icons) */
+@media (max-width: 860px) {
+  .author__urls-wrapper,
+  .author__urls {
+    display: none !important;
+  }
 }
