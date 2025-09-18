@@ -83,17 +83,10 @@ body {
   font-size: 17px;
 }
 
-/* /* Lighter sans-serif for titles and headings */
+/* Headings also in Georgia */
 h1, h2, h3, h4, h5, h6,
 .page__title {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 570;   /* lighter than 700, makes titles less heavy */
-  line-height: 1.2;   /* tighter, helps fit titles in fewer lines */
-} */
-h1, h2, h3, h4, h5, h6,
-.page__title {
-  font-family: Calibri, Candara, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 600;
-  line-height: 1.25;
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-weight: 600;   /* 600 gives strong emphasis, but not too bold */
+  line-height: 1.3;   /* a bit more breathing room than sans-serif */
 }
-
