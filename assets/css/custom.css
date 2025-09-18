@@ -83,12 +83,17 @@ body {
   font-size: 17px;
 }
 
-/* Lighter sans-serif for titles and headings */
+/* /* Lighter sans-serif for titles and headings */
 h1, h2, h3, h4, h5, h6,
 .page__title {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;   /* lighter than 700, makes titles less heavy */
   line-height: 1.2;   /* tighter, helps fit titles in fewer lines */
+} */
+h1, h2, h3, h4, h5, h6,
+.page__title {
+  font-family: Calibri, Candara, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  line-height: 1.25;
 }
-
 
