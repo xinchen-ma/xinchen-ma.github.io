@@ -104,3 +104,18 @@ h2 {
   font-family: Calibri, "Helvetica Neue", "Segoe UI", Arial, sans-serif;
   font-weight: 600;
 }
+
+
+
+/* Override: Your name (the page title at top) */
+.page__title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+/* Override: Section titles (Working Papers, Work in Progress, Teaching) */
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+}
