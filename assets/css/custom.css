@@ -197,3 +197,18 @@ h2 a, h3 a, h4 a {
 .author__avatar img {
   border: 1.5px solid color-mix(in srgb, currentColor var(--rule-alpha), transparent);
 }
+
+/* Use the same adaptive hairline under the top nav/header */
+:root { --rule-alpha: 35%; } /* keep or tweak to taste */
+
+/* First, neutralize any default borders/shadows to avoid double lines */
+.masthead,
+.greedy-nav {
+  border-bottom: none;
+  box-shadow: none;
+}
+
+/* Then draw one clean line on the outer header */
+.masthead {
+  border-bottom: 1px solid color-mix(in srgb, currentColor var(--rule-alpha), transparent);
+}
