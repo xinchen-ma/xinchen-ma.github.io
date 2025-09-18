@@ -17,7 +17,7 @@ My first name, Xinchen, is pronounced “SHEEN-chen”.
 
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
 
-<br><br>
+<br>
 ## Working Papers {#research}
 
 ### Open Banking and Fintech Innovation Adoption: Evidence from Mobile Apps (Job Market Paper)
@@ -38,7 +38,7 @@ with **Huan Tang** and **Bo Bian**
 
 - **Presented at:** SITE 2024, FIRS 2024, EFA 2023, SFS Cavalcade 2023, AEA 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop 
 
-<br><br>
+<br>
 ## Work in Progress
 
 ### Data-driven Partnership among Firms: Evidence from GDPR
@@ -49,7 +49,7 @@ GDPR incentivizes data-driven partnerships that create value for firms. However,
 
 Tracking apps face significant declines in downloads and revenue after Apple's App Tracking Transparency. In response, they adjust ad strategies, adopt alternative SDKs, and raise in-app prices.
 
-<br><br>
+<br>
 ## Teaching {#teaching}
 
 ### LSE Class Teacher
