@@ -1,5 +1,5 @@
-/* Move header nav items to the right */
-
+/* Force site nav links to the right */
 .greedy-nav .visible-links {
-  margin-left: auto;
+  margin-left: auto !important;
+  justify-content: flex-end !important;
 }
