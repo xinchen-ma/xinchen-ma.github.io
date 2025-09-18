@@ -17,7 +17,6 @@ My first name, Xinchen, is pronounced “SHEEN-chen”.
 
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
 
-
 <br><br>
 ## Working Papers {#research}
 
@@ -27,7 +26,7 @@ My first name, Xinchen, is pronounced “SHEEN-chen”.
 
 - **Presented at:** AFA 2026 PhD Student Poster (scheduled), Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, LSE PhD Workshop
 
-<br><br>
+
 ### The Supply and Demand for Data Privacy: Evidence from Mobile Apps 
 with **Huan Tang** and **Bo Bian**
 
@@ -39,9 +38,6 @@ with **Huan Tang** and **Bo Bian**
 
 - **Presented at:** SITE 2024, FIRS 2024, EFA 2023, SFS Cavalcade 2023, AEA 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop 
 
-
-
-
 <br><br>
 ## Work in Progress
 
@@ -52,8 +48,6 @@ GDPR incentivizes data-driven partnerships that create value for firms. However,
 ### The Effect of Apple Transparency Tracking: An Analysis on App Monetization
 
 Tracking apps face significant declines in downloads and revenue after Apple's App Tracking Transparency. In response, they adjust ad strategies, adopt alternative SDKs, and raise in-app prices.
-
-
 
 <br><br>
 ## Teaching {#teaching}
