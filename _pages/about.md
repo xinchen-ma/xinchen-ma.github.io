@@ -16,15 +16,11 @@ Email: x.ma25[at]lse.ac.uk
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
 
 
-<nav class="quick-nav">
-  <a href="#cv">CV</a>
-  <a href="#Research">Working Papers</a>
-  <a href="#teaching">Teaching</a>
-</nav>
+
 
 ## CV 
 ------
-## Working Papers {#Research}
+## Working Papers
 
 ### Open Banking and Fintech Innovation Adoption: Evidence from Mobile Apps (Job Market Paper)
 
@@ -61,7 +57,7 @@ Tracking apps face significant declines in downloads and revenue after Apple's A
 
 
 ------
-## Teaching{#teaching}
+## Teaching
 
 ### LSE Class Teacher
 - FM310 Corporate Finance, Investments and Financial Markets I, 2024 - 2025
