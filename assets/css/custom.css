@@ -28,3 +28,24 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Remove the sidebar everywhere */
+.sidebar { display: none !important; }
+
+/* Let the page flow as a single column */
+.page { display: block !important; }
+
+/* Widen the inner wrapper */
+.page__inner-wrap {
+  max-width: 1200px !important; /* adjust to taste: 1100/1200/none */
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Make the content section fill the widened wrapper */
+.page__content {
+  max-width: 100% !important;
+}
