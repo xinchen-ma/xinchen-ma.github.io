@@ -2,6 +2,7 @@
 layout: single
 classes: wide
 author_profile: true
+sidebar: false      
 title: "Xinchen Ma"
 permalink: /
 ---
