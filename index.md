@@ -29,7 +29,8 @@ My first name, Xinchen, is pronounced “SHEEN-chen”.
 <br>
 ## Working Paper
 
-### The Supply and Demand for Data Privacy: Evidence from Mobile Apps 
+### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541)
+
 with **Huan Tang** and **Bo Bian**
 
 **Reject & Resubmit** at _Journal of Political Economy_
