@@ -48,6 +48,13 @@ GDPR incentivizes data-driven partnerships that create value for firms. However,
 
 Tracking apps face significant declines in downloads and revenue after Apple's App Tracking Transparency. In response, they adjust ad strategies, adopt alternative SDKs, and raise in-app prices.
 
+### Stablecoins on the Move: Mobile App Usage and Macro Stability 
+
+with **Jiahong Shi**
+
+Publicly available data on crypto and stablecoin app usage can serve as a real-time indicator of macroeconomic stability across countries.
+
+
 ## Teaching {#teaching}
 
 ### LSE Class Teacher
