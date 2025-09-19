@@ -60,6 +60,7 @@ Tracking apps face significant declines in downloads and revenue after Apple's A
 ### LSE Teaching Assistant
 - EE951 Corporate Finance and Strategy (Executive Program), 2023 - 2025
 
+<br>
 I was awarded the **[LSE Class Teacher Award](https://info.lse.ac.uk/staff/divisions/Eden-Centre/Education-awards/LSE-Class-Teacher-Awards)** in 2022, 2023, and 2024, and was nominated for the LSE Student Union Outstanding Teacher in 2023. 
 
 <br><br><br><br>
