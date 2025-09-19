@@ -1,4 +1,4 @@
----
+t---
 permalink: /
 title: Xinchen Ma
 layout: single
@@ -20,7 +20,7 @@ Email: x.ma25[at]lse.ac.uk
 
 ### Open Banking and Competition in Banks and Fintech: Evidence from Mobile Apps
 
-**Abstract:** Open banking was introduced to expand consumer access to finance, yet little is known about its effects on competition and innovation in the financial services sector. In this paper, I build a novel dataset linking official authorization records with historical Android app source code to track API integration among finance apps in Europe. Combining these data with high-frequency app performance measures and exploiting cross-country variation in authorization status within the same app, I show that access to consumer banking data significantly boosts app performance. These effects are particularly pronounced during the COVID-19 pandemic, when branch access was limited, and are strongest for lending and investment apps as well as fintech startups. Using text from app descriptions, I further show that incumbent banks most exposed to open banking competitive pressure experience declines in loan issuance and income but respond strategically by raising fee intensity and asset yields. Overall, the results underscore the value of data as a unique asset shaping competitive dynamics.
+**Abstract:** Open banking was introduced to expand consumer access to finance, yet little is known about its effects on competition in the financial services sector. In this paper, I build a novel dataset linking official authorization records with historical Android app source code to track API integration among finance apps in Europe. Combining these data with high-frequency app performance measures and exploiting cross-country variation in authorization status within the same app, I show that access to consumer banking data significantly boosts app performance. These effects are particularly pronounced during the COVID-19 pandemic, when branch access was limited, and are strongest for lending and investment apps as well as fintech startups. Using text from app descriptions, I further show that incumbent banks most exposed to competitive pressure from open banking experience declines in loan issuance and income but respond strategically by raising fee intensity and asset yields. Overall, the results underscore the value of data as a unique asset shaping competitive dynamics.
 
 - **Presented at:** AFA 2026 PhD Poster (scheduled), Warwick PhD Workshop on FinTech 2025 (scheduled), Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, LSE PhD Workshop
 
