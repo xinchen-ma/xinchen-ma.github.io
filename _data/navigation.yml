@@ -20,8 +20,8 @@ main:
   #- title: "Blog Posts"
    # url: /year-archive/
 
-  - title: '<a href="/assets/CV_XinchenMa.pdf" target="_blank" rel="noopener noreferrer">CV</a>'
-    url: ""
+  # - title: '<a href="/assets/CV_XinchenMa.pdf" target="_blank" rel="noopener noreferrer">CV</a>'
+  #   url: ""
   # - title: "CV"
   #   url: "/assets/CV_XinchenMA.pdf"
   #   target: "_blank"
