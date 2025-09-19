@@ -20,7 +20,7 @@ Email: x.ma25[at]lse.ac.uk
 
 ### Open Banking and Competition in Banks and Fintech: Evidence from Mobile Apps
 
-<details class="abstract"open>
+<details class="abstract" open>
   <summary>Abstract</summary>
   <p>Open banking was introduced to expand consumer access to finance, yet little is known about its effects on competition in the financial services sector. In this paper, I build a novel dataset linking official authorization records with historical Android app source code to track API integration among finance apps in Europe. Combining these data with high-frequency app performance measures and exploiting cross-country variation in authorization status within the same app, I show that access to consumer banking data significantly boosts app performance. These effects are particularly pronounced during the COVID-19 pandemic, when branch access was limited, and are strongest for lending and investment apps as well as fintech startups. Using text from app descriptions, I further show that incumbent banks most exposed to competitive pressure from open banking experience declines in loan issuance and income but respond strategically by raising fee intensity and asset yields. Overall, the results underscore the value of data as a unique asset shaping competitive dynamics.</p>
 </details>
@@ -35,7 +35,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 **Reject & Resubmit** at _Journal of Political Economy_
 
-<details class="abstract"open>
+<details class="abstract" open>
   <summary>Abstract</summary>
   <p>This paper investigates how consumers and investors react to the standardized disclosure of data privacy practices. Since December 2020, Apple has required all apps to disclose their data collection practices by filling out privacy ''nutrition'' labels that are standardized and easy to read. We web-scrape these privacy labels and first document several stylized facts regarding the supply of privacy. Second, augmenting privacy labels with weekly app downloads and revenues, we examine how this disclosure affects consumer behavior. Exploiting the staggered release of privacy labels and using the nonexposed Android version of each app to construct the control group, we find that after privacy label release, an average iOS app experiences a 14% (15%) drop in weekly downloads (revenue) when compared to its Android counterpart. The effect is stronger for more privacy-invasive and substitutable apps. Moreover, we observe negative stock market reactions, especially among firms that harvest more data, corroborating the adverse impact on product markets. Our findings highlight data as a key asset for firms in the digital era. </p>
 </details>
