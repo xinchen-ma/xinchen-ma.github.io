@@ -51,7 +51,6 @@ Tracking apps face significant declines in downloads and revenue after Apple's A
 ### Stablecoins on the Move: Mobile App Usage and Macro Stability 
 
 with **Jiahong Shi**
-
 Publicly available data on crypto and stablecoin app usage can serve as a real-time indicator of macroeconomic stability across countries.
 
 
