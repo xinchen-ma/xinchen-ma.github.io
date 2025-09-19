@@ -236,12 +236,12 @@ details.abstract[open] > summary::before { content: "▼"; }
 .page__content p:has(+ details.abstract),
 .page__content ul:has(+ details.abstract),
 .page__content .paper-meta:has(+ details.abstract) {
-  margin-bottom: .35rem;   /* pick your preferred gap */
+  margin-bottom: .4rem;   /* pick your preferred gap */
 }
 
 /* Prevent margin-collapsing from re-introducing variation */
 .page__content details.abstract {
   margin-top: 0;
-  padding-top: .35rem;      /* creates the visible space */
+  padding-top: .4rem;      /* creates the visible space */
   border-top: 0.01px solid transparent; /* also prevents collapsing */
 }
