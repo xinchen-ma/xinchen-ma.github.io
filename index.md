@@ -19,8 +19,8 @@ Email: x.ma25[at]lse.ac.uk
 ## Job Market Paper {#research}
 
 ### Open Banking and Competition in Banks and Fintech: Evidence from Mobile Apps
-<br>
-<details class="abstract" open>
+
+<details class="abstract">
   <summary>Abstract</summary>
   <p>Open banking was introduced to expand consumer access to finance, yet little is known about its effects on competition in the financial services sector. In this paper, I build a novel dataset linking official authorization records with historical Android app source code to track API integration among finance apps in Europe. Combining these data with high-frequency app performance measures and exploiting cross-country variation in authorization status within the same app, I show that access to consumer banking data significantly boosts app performance. These effects are particularly pronounced during the COVID-19 pandemic, when branch access was limited, and are strongest for lending and investment apps as well as fintech startups. Using text from app descriptions, I further show that incumbent banks most exposed to competitive pressure from open banking experience declines in loan issuance and income but respond strategically by raising fee intensity and asset yields. Overall, the results underscore the value of data as a unique asset shaping competitive dynamics.</p>
 </details>
@@ -35,7 +35,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 **Reject & Resubmit** at _Journal of Political Economy_
 
-<details class="abstract" open>
+<details class="abstract">
   <summary>Abstract</summary>
   <p>This paper investigates how consumers and investors react to the standardized disclosure of data privacy practices. Since December 2020, Apple has required all apps to disclose their data collection practices by filling out privacy ''nutrition'' labels that are standardized and easy to read. We web-scrape these privacy labels and first document several stylized facts regarding the supply of privacy. Second, augmenting privacy labels with weekly app downloads and revenues, we examine how this disclosure affects consumer behavior. Exploiting the staggered release of privacy labels and using the nonexposed Android version of each app to construct the control group, we find that after privacy label release, an average iOS app experiences a 14% (15%) drop in weekly downloads (revenue) when compared to its Android counterpart. The effect is stronger for more privacy-invasive and substitutable apps. Moreover, we observe negative stock market reactions, especially among firms that harvest more data, corroborating the adverse impact on product markets. Our findings highlight data as a key asset for firms in the digital era. </p>
 </details>
@@ -48,12 +48,17 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 ### Data-driven Partnership among Firms: Evidence from GDPR
 
-GDPR incentivizes data-driven partnerships that create value for firms. However, the increase is muted in Europe, leaving the region at a disadvantage in this emerging area of competition. 
+<details class="abstract">
+  <summary>Abstract</summary>
+  <p>This paper studies the formation and capital-market implications of data-driven partnerships between firms. I assemble a news-based dataset of inter-firm, data-driven collaborations to map the landscape of corporate data sharing. I document the determinants of partnership formation, partner-pair characteristics, and associated stock-market reactions. Exploiting the EU’s General Data Protection Regulation (GDPR) as a plausibly exogenous shock in a difference-in-differences design, I show that GDPR-exposed firms form more data-driven partnerships, with the increase concentrated in cross-border deals with non-EU partners. </p>
+</details>
 
 ### The Effect of Apple Transparency Tracking: An Analysis on App Monetization
 
-Tracking apps face significant declines in downloads and revenue after Apple's App Tracking Transparency. In response, they adjust ad strategies, adopt alternative SDKs, and raise in-app prices.
-
+<details class="abstract">
+  <summary>Abstract</summary>
+  <p>This paper studies how data sharing policy affects app developers’ monetization. We exploit Apple’s App Tracking Transparent (ATT), which shifts customers’ default data sharing option in the Apple App Store from opt-in to opt-out, as a natural experiment to study how apps change their business model to make money in the privacy-preserving era. We find that after ATT, apps that are used to track users suffer declines of 28% and 10% in downloads and revenue, respectively. Advertising activities of tracking apps are negatively affected among publishers who display fewer banner, full-screen, playable, video ads and advertisers who advertise less aggressively on social networks. Tracking apps also adopt more third-party SDKs for advertising and monetization than non-tracking apps and are switching to less tracking-reliant attribution SDKs. In the long run, ATT causes price rises in in-app purchases. The above impacts are more pronounced among advertisers. </p>
+</details>
 
 
 ## Teaching {#teaching}
