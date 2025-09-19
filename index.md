@@ -1,4 +1,4 @@
-t---
+---
 permalink: /
 title: Xinchen Ma
 layout: single
