@@ -228,3 +228,20 @@ details.abstract > summary::before {
   transform: translateY(-1px);
 }
 details.abstract[open] > summary::before { content: "▼"; }
+
+/* Make the gap before Abstract consistent, regardless of the previous element */
+.page__content h2:has(+ details.abstract),
+.page__content h3:has(+ details.abstract),
+.page__content h4:has(+ details.abstract),
+.page__content p:has(+ details.abstract),
+.page__content ul:has(+ details.abstract),
+.page__content .paper-meta:has(+ details.abstract) {
+  margin-bottom: .35rem;   /* pick your preferred gap */
+}
+
+/* Prevent margin-collapsing from re-introducing variation */
+.page__content details.abstract {
+  margin-top: 0;
+  padding-top: .35rem;      /* creates the visible space */
+  border-top: 0.01px solid transparent; /* also prevents collapsing */
+}
