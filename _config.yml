@@ -38,7 +38,7 @@ author:
   avatar           : "IMG_2104_crop.PNG"
   name             : "Xinchen Ma (马昕辰)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate in Finance"
+  bio              : "Ph.D. Candidate in Finance"
   location         : #""
   employer         : "London School of Economics"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4982387"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
