@@ -212,3 +212,19 @@ h2 a, h3 a, h4 a {
 .masthead {
   border-bottom: 1px solid color-mix(in srgb, currentColor var(--rule-alpha), transparent);
 }
+
+
+details.abstract { margin: .5rem 0 1rem; }
+details.abstract > summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+}
+details.abstract > summary::-webkit-details-marker { display: none; }
+details.abstract > summary::before {
+  content: "▶";
+  display: inline-block;
+  margin-right: .4rem;
+  transform: translateY(-1px);
+}
+details.abstract[open] > summary::before { content: "▼"; }
