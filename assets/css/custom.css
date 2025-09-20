@@ -284,22 +284,37 @@ details.abstract[open] > summary::before { content: "▼"; }
   }
 }
 
-/* Hide default marker and force text (not emoji) on iOS */
-details.abstract > summary { 
+/* === Uniform Abstract toggles (works on iOS/Android/desktop) === */
+details.abstract > summary {
   cursor: pointer;
   font-weight: 600;
-  list-style: none;
-  font-variant-emoji: text;           /* iOS Safari: prefer text glyphs */
+  list-style: none;         /* remove default list bullet */
+  -webkit-appearance: none; /* Safari */
+  appearance: none;
 }
-details.abstract > summary::-webkit-details-marker { display: none; }
 
-/* Triangles as text glyphs (force text presentation with FE0E) */
+/* hide native markers everywhere */
+details.abstract > summary::-webkit-details-marker { display: none; }
+details.abstract > summary::marker { content: ""; }
+
+/* draw our own arrow (CSS triangle) */
 details.abstract > summary::before {
-  content: "\25B6\FE0E";              /* ▶ + FE0E = text, not emoji */
+  content: "";
   display: inline-block;
+  width: 0; height: 0;
   margin-right: .4rem;
-  transform: translateY(-1px);
+  transform: translateY(1px);
+  border-style: solid;
+  /* closed state: right-pointing */
+  border-width: 6px 0 6px 9px;
+  border-color: transparent transparent transparent currentColor;
 }
+
+/* open state: down-pointing */
 details.abstract[open] > summary::before {
-  content: "\25BC\FE0E";              /* ▼ + FE0E = text, not emoji */
+  border-width: 9px 6px 0 6px;
+  border-color: currentColor transparent transparent transparent;
 }
+
+/* optional: tidy spacing inside the block */
+details.abstract > *:first-child { margin-top: 0; }
