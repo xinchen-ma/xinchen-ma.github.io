@@ -25,4 +25,30 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 </script>
 
+<script>
+(function () {
+  var BP = 540; // px; treat <= 540px as "mobile"
+
+  function forceLightOnMobile() {
+    if (Math.min(window.innerWidth, (window.screen && screen.width) || 9999) <= BP) {
+      // Cover Minimal Mistakes and forks
+      document.documentElement.setAttribute('data-theme', 'light');
+      document.documentElement.classList.remove('dark', 'dark-mode');
+      document.documentElement.classList.add('light');
+
+      try {
+        // Persist on this device/browser
+        localStorage.setItem('theme', 'light');     // MM recent
+        localStorage.setItem('mm-theme', 'light');  // some forks
+        localStorage.setItem('color-mode', 'light'); // other variants
+      } catch(e) {}
+    }
+  }
+
+  window.addEventListener('load', forceLightOnMobile);
+  window.addEventListener('resize', forceLightOnMobile);
+  window.addEventListener('orientationchange', forceLightOnMobile);
+})();
+</script>
+
 <!-- end custom footer snippets -->
