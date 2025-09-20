@@ -236,12 +236,22 @@ details.abstract[open] > summary::before { content: "▼"; }
 .page__content p:has(+ details.abstract),
 .page__content ul:has(+ details.abstract),
 .page__content .paper-meta:has(+ details.abstract) {
-  margin-bottom: .5rem;   /* pick your preferred gap */
+  margin-bottom: .6rem;   /* pick your preferred gap */
 }
 
 /* Prevent margin-collapsing from re-introducing variation */
 .page__content details.abstract {
   margin-top: 0;
-  padding-top: .5rem;      /* creates the visible space */
+  padding-top: .6rem;      /* creates the visible space */
   border-top: 0.01px solid transparent; /* also prevents collapsing */
 }
+
+/* One rule to normalize the gap before every Abstract */
+.page__content * + details.abstract {
+  margin-top: 0;            /* avoid margin-collapsing surprises */
+  padding-top: .6rem;       /* ← adjust this number to taste */
+  border-top: 0.01px solid transparent; /* prevents collapsing on some browsers */
+}
+
+/* (Optional) tidy the first child inside details */
+.page__content details.abstract > *:first-child { margin-top: 0; }
