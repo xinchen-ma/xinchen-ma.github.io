@@ -255,3 +255,25 @@ details.abstract[open] > summary::before { content: "▼"; }
 
 /* (Optional) tidy the first child inside details */
 .page__content details.abstract > *:first-child { margin-top: 0; }
+
+/* Always show the sun/moon toggle */
+.mode-toggle { display: inline-flex !important; }
+
+/* Compact the masthead on small screens so 3 links fit */
+@media (max-width: 480px) {
+  /* Free space: hide the site title on phones (optional but effective) */
+  .greedy-nav .site-title { display: none; }
+
+  /* Shrink link padding/size so CV | Research | Teaching stay visible */
+  .greedy-nav .visible-links > li > a {
+    padding: 0 .5rem;     /* was ~.75–.9rem per side */
+    font-size: .95rem;    /* slightly smaller text */
+    letter-spacing: 0;
+  }
+  .greedy-nav .visible-links > li { margin: 0; }
+
+  /* Trim surrounding padding so everything fits */
+  .masthead__inner-wrap { padding: .25rem 0; }
+  .greedy-nav { padding-right: .25rem; }
+  .greedy-nav .greedy-nav__toggle { margin-left: .25rem; } /* keeps hamburger tucked right when needed */
+}
