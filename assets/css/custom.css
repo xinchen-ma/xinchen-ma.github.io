@@ -259,3 +259,27 @@ details.abstract[open] > summary::before { content: "▼"; }
 /* Always show the sun/moon toggle */
 .mode-toggle { display: inline-flex !important; }
 
+/* Center the author card on small screens */
+@media (max-width: 540px) {
+  /* The Minimal Mistakes author block */
+  .h-card.p-author { 
+    text-align: center;                 /* center text */
+    display: grid;                      /* easy centering for children */
+    justify-items: center;              /* center children horizontally */
+  }
+  .h-card.p-author .author__avatar {
+    float: none;                        /* cancel float */
+    margin: 0 auto .5rem;               /* center image */
+  }
+  .h-card.p-author .author__content,
+  .h-card.p-author .author__bio,
+  .h-card.p-author .author__name {
+    text-align: center;
+  }
+  .h-card.p-author .author__urls-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;            /* center social icons row if shown */
+  }
+}
+
