@@ -216,19 +216,7 @@ h2 a, h3 a, h4 a {
 
 
 details.abstract { margin: .5rem 0 1rem; }
-details.abstract > summary {
-  cursor: pointer;
-  font-weight: 600;
-  list-style: none;
-}
-details.abstract > summary::-webkit-details-marker { display: none; }
-details.abstract > summary::before {
-  content: "▶";
-  display: inline-block;
-  margin-right: .4rem;
-  transform: translateY(-1px);
-}
-details.abstract[open] > summary::before { content: "▼"; }
+
 
 /* Make the gap before Abstract consistent, regardless of the previous element */
 .page__content h2:has(+ details.abstract),
