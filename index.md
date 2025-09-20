@@ -11,9 +11,9 @@ Welcome!
   
 I am a Ph.D. candidate in Finance at the London School of Economics and Political Science (LSE). My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**. I am on the 2025-2026 job market. 
 
-**Curriculum vitae**
+**CV**
 
-Email: x.ma25[at]lse.ac.uk
+**Email**: x.ma25[at]lse.ac.uk
 
 <!-- My first name, Xinchen, is pronounced “SHEEN-chen”. -->
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
