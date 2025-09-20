@@ -306,3 +306,22 @@ details.abstract[open] > summary::before {
 
 /* optional: tidy spacing inside the block */
 details.abstract > *:first-child { margin-top: 0; }
+
+
+/* Tighten space between header and first content (author box) on mobile */
+@media (max-width: 540px) {
+  /* shrink the header's vertical padding a bit */
+  .masthead__inner-wrap { padding-top: .35rem !important; padding-bottom: .35rem !important; }
+
+  /* remove extra offset the theme adds before the page content */
+  .initial-content { margin-top: 0 !important; padding-top: 0 !important; }
+
+  /* trim the top padding of the page wrapper */
+  .page__inner-wrap { padding-top: .5rem !important; }
+
+  /* the first block after the header (often the author card) */
+  #main > *:first-child { margin-top: .5rem !important; }
+
+  /* ensure the author sidebar/card itself doesn't add a big top margin */
+  .sidebar { margin-top: .25rem !important; }
+}
