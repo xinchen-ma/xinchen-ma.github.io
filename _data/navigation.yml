@@ -22,8 +22,8 @@ main:
 
   # - title: '<a href="/assets/CV_XinchenMa.pdf" target="_blank" rel="noopener noreferrer">CV</a>'
   #   url: ""
-  - title: "CV"
-    url: "/assets/CV_XinchenMa.pdf"
+  # - title: "CV"
+  #   url: "/assets/CV_XinchenMa.pdf"
 
   - title: "Research"
     url: "/#research"
