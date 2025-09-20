@@ -35,7 +35,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 **Reject & Resubmit** at _Journal of Political Economy_
 
-<details class="abstract" open>
+<details class="abstract" >
   <summary>Abstract</summary>
   <p>This paper investigates how consumers and investors react to the standardized disclosure of data privacy practices. Since December 2020, Apple has required all apps to disclose their data collection practices by filling out privacy ''nutrition'' labels that are standardized and easy to read. We web-scrape these privacy labels and first document several stylized facts regarding the supply of privacy. Second, augmenting privacy labels with weekly app downloads and revenues, we examine how this disclosure affects consumer behavior. Exploiting the staggered release of privacy labels and using the nonexposed Android version of each app to construct the control group, we find that after privacy label release, an average iOS app experiences a 14% (15%) drop in weekly downloads (revenue) when compared to its Android counterpart. The effect is stronger for more privacy-invasive and substitutable apps. Moreover, we observe negative stock market reactions, especially among firms that harvest more data, corroborating the adverse impact on product markets. Our findings highlight data as a key asset for firms in the digital era. </p>
 </details>
