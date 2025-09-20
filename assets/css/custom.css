@@ -214,6 +214,7 @@ h2 a, h3 a, h4 a {
 }
 
 
+
 details.abstract { margin: .5rem 0 1rem; }
 details.abstract > summary {
   cursor: pointer;
@@ -283,3 +284,22 @@ details.abstract[open] > summary::before { content: "▼"; }
   }
 }
 
+/* Hide default marker and force text (not emoji) on iOS */
+details.abstract > summary { 
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+  font-variant-emoji: text;           /* iOS Safari: prefer text glyphs */
+}
+details.abstract > summary::-webkit-details-marker { display: none; }
+
+/* Triangles as text glyphs (force text presentation with FE0E) */
+details.abstract > summary::before {
+  content: "\25B6\FE0E";              /* ▶ + FE0E = text, not emoji */
+  display: inline-block;
+  margin-right: .4rem;
+  transform: translateY(-1px);
+}
+details.abstract[open] > summary::before {
+  content: "\25BC\FE0E";              /* ▼ + FE0E = text, not emoji */
+}
