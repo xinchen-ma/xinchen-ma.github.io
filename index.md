@@ -41,7 +41,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 </details>
 
 - **Award:** Best Paper Award at the Annual Conference in Digital Economics 2022 
-- **Presented at (selected):** SITE 2024, FIRS 2024, EFA 2023, AEA 2023, SFS Cavalcade 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop
+- **Presented at (selected):** SITE 2024, FIRS 2024, EFA 2023, AEA 2023, SFS Cavalcade North America 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop
 
 ## Work in Progress
 
