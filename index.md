@@ -72,6 +72,6 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 - EE951 Corporate Finance and Strategy (Executive Program), 2023 - 2025
 
 <br>
-I was awarded the **[LSE Class Teacher Award](https://info.lse.ac.uk/staff/divisions/Eden-Centre/Education-awards/LSE-Class-Teacher-Awards)** in 2022, 2023, and 2024, and was nominated for the LSE Student Union Outstanding Teacher in 2023. 
+I was awarded the **[LSE Class Teacher Award](https://info.lse.ac.uk/staff/divisions/Eden-Centre/Education-awards/LSE-Class-Teacher-Awards)** in 2022, 2023, and 2024, and was nominated for the LSE Students' Union Outstanding Teacher in 2023. 
 
 <br><br><br><br>
