@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Finance at the London School of Economics and Politica
 
 Email: x.ma25[at]lse.ac.uk
 
-* My first name, Xinchen, is pronounced **"Shin-chen."** 
+*My first name, Xinchen, is pronounced **"Shin-chen."** 
 
 <!-- My first name, Xinchen, is pronounced “SHEEN-chen”. -->
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
