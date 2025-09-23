@@ -40,7 +40,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
   <p>We study Apple’s 2020 privacy "nutrition" label policy, which mandates standardized disclosure of apps’ data collection practices. Exploiting the staggered release of labels and using Android versions as a control, we find that iOS apps experience a 14% drop in weekly downloads and a 15% drop in revenue, with stronger effects for more privacy-invasive apps. Extending the analysis to 90 countries, we document systematic heterogeneity in consumer responses explained by institutional and cultural factors. A complementary experiment shows that labels improve comprehension and align behavior with stated concerns, helping to resolve the privacy paradox.  </p>
 </details>
 
-- **Award:** Best Paper Award at the Annual Conference in Digital Economics 2022 
+- Best Paper Award at the Annual Conference in Digital Economics 2022 
 - **Presented at (selected):** SITE 2024, FIRS 2024, EFA 2023, AEA 2023, SFS Cavalcade North America 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop
 
 ## Work in Progress
