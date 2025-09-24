@@ -50,7 +50,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 <details class="abstract">
   <summary>Abstract</summary>
-  <p>This paper studies the formation and capital-market implications of data-driven partnerships between firms. I assemble a news-based dataset of inter-firm, data-driven collaborations to map the landscape of corporate data sharing. I document the determinants of partnership formation, partner-pair characteristics, and associated stock-market reactions. Exploiting the EU’s General Data Protection Regulation (GDPR) as a plausibly exogenous shock in a difference-in-differences design, I show that GDPR-exposed firms form more data-driven partnerships, with the increase concentrated in cross-border deals with non-EU partners. </p>
+  <p>This paper studies the formation and capital-market implications of data-driven partnerships between firms. I assemble a news-based dataset of inter-firm, data-driven collaborations to map the landscape of corporate data sharing. I document the determinants of partnership formation, partner-pair characteristics, and associated stock-market reactions. Exploiting the EU’s General Data Protection Regulation (GDPR) as a plausibly exogenous shock in a difference-in-differences design, I show that GDPR-exposed firms form more data-driven partnerships, with the increase concentrated in US deals with non-EU partners. </p>
 </details>
 
 ### The Effect of App Tracking Transparency: An Analysis on App Monetization
