@@ -65,7 +65,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 ### LSE Class Teacher
 - FM300/310 Corporate Finance, Investments and Financial Markets, 2023 - 2025
-- FM212 Principle of Finance, 2021 - 2023
+- FM212 Principles of Finance, 2021 - 2023
 - FM250 Finance (Summer School), 2023
 - FM255 Financial Markets and Portfolio Management (Summer School), 2021
 
