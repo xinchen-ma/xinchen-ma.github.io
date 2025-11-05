@@ -19,7 +19,7 @@ Email: x.ma25[at]lse.ac.uk
 
 ## Job Market Paper {#research}
 
-### Open Banking and Competition in Banks and Fintech: Evidence from Mobile Apps
+### [Open Banking and Competition in Banks and Fintech: Evidence from Mobile Apps](/files/JMP_XinchenMA_06Nov2025.pdf)
 
 <details class="abstract" open>
   <summary>Abstract</summary>
