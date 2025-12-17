@@ -34,7 +34,7 @@ Email: x.ma25[at]lse.ac.uk
 
 with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian.com/home)**
 
-**Reject & Resubmit** at _Journal of Political Economy_
+**Revise & Resubmit** at _Journal of Political Economy_
 
 <details class="abstract" open>
   <summary>Abstract</summary>
