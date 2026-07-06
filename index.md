@@ -9,9 +9,9 @@ sidebar: null
 
 Welcome! 
   
-I am a Ph.D. candidate in Finance at the London School of Economics and Political Science (LSE). My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**. I am on the 2025-2026 job market. 
+I recently completed my PhD in Finance at the London School of Economics and Political Science (LSE). My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**. I am currently a Senior Lecturer (equivalent to Assistant Professor) at Monash University.
 
-Email: x.ma25[at]lse.ac.uk
+Email: xinchen.ma[at]monash.edu
 
 <!-- My first name, Xinchen, is pronounced **"Shin-chen"**. -->
 
