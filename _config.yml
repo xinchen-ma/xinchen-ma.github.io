@@ -36,13 +36,13 @@ repository               : "xinchen-ma/xinchen-ma.github.io"
 author:
   # Biographic information
   avatar           : "IMG_2104_crop5.png"
-  name             : "Xinchen Ma (马昕辰)"
+  name             : "Xinchen Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Finance"
-  location         : #""
-  employer         : "London School of Economics"
-  uri              : "https://www.lse.ac.uk/finance/people/phd-students/Ma"
-  email            : "x.ma25@lse.ac.uk" 
+  bio              : "Senior Lecturer in Finance"
+  location         : "Melbourne, Australia"
+  employer         : "Monash University"
+  uri              : "https://www.monash.edu/business/baf/our-people/staff-directory"
+  email            : "xinchen.ma@monash.edu" 
 
   # Academic websites
   academia         : # URL
