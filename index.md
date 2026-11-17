@@ -9,7 +9,7 @@ sidebar: null
 
 Welcome! 
   
-I recently completed my PhD in Finance at the London School of Economics and Political Science (LSE). My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**. I am currently a Senior Lecturer (equivalent to Assistant Professor) at Monash University.
+I am a Senior Lecturer (equivalent to Assistant Professor) at Monash University. I obtained my PhD in Finance at the London School of Economics and Political Science (LSE) in 2026. My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**. 
 
 Email: xinchen.ma[at]monash.edu
 
@@ -17,7 +17,7 @@ Email: xinchen.ma[at]monash.edu
 
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
 
-## Job Market Paper {#research}
+## Working Paper {#research}
 
 ### [Open Banking and Competition in Banks and Fintech: Evidence from Mobile Apps](/files/JMP_XinchenMA.pdf)
 
@@ -26,9 +26,8 @@ Email: xinchen.ma[at]monash.edu
   <p>Open banking policies have been introduced by many governments to foster innovation in financial services, yet evidence on their effects on competition remains limited. I construct a novel dataset of fintech app source code and exploit cross-country variation in open banking availability within the same app to identify the impact of open banking on fintechs. I find that open banking significantly boosts fintech app usage and performance, with the strongest gains for data-intensive apps, fintech startups, and during the pandemic when access to traditional banking was limited. Textual analysis of app descriptions shows that incumbent banks most exposed to open banking suffer declines in loan issuance and income but respond strategically by raising fee intensity and improving earning efficiency. The findings are consistent with theories that open banking reduces barriers to entry by weakening banks' monopoly power over consumer data.   </p>
 </details>
 
-- **Presented at:** EFA 2026 (scheduled), FIRS 2026, AFA 2026 PhD Poster, Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, Warwick PhD Workshop on FinTech 2025, LSE PhD Workshop
+- **Presented at:** EFA 2026, FIRS 2026, AFA 2026 PhD Poster, Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, Warwick PhD Workshop on FinTech 2025, LSE PhD Workshop
 
-## Working Paper
 
 ### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541)
 
@@ -43,6 +42,17 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 - Best Paper Award at the Annual Conference in Digital Economics 2022 
 - **Presented at (selected):** SITE 2024, FIRS 2024, EFA 2023, AEA 2023, SFS Cavalcade North America 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop
+
+### [Investing in Data Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7680002)
+
+with **[Zhenkai Ran](https://www.zhenkairan.com/)** and **Xiangyu Lin**
+
+<details class="abstract" open>
+  <summary>Abstract</summary>
+  <p>Despite the growing importance of data, how much firms invest in it and how investors value it remain largely unknown. We measure this investment from how managers and analysts discuss data on earnings calls. The measure has risen 17-fold since 2007 and tracks what firms do: it predicts IT budgets, data-related patents, and data-worker hiring. Calibrated to IT budgets, data's share of corporate investment was about one-eighth in 2025. Across firms, a dollar of data capital carries 12 dollars of market value, far more than other organization capital, a premium that has grown since 2015, mostly at the largest firms.  </p>
+</details>
+
+- **Presented at:** 2026 NBS Conference on AI for Finance (Scheduled)
 
 ## Work in Progress
 
