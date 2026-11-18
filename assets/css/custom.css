@@ -176,7 +176,7 @@ html[data-theme="dark"] #main .page__content h3 a:visited {
 }
 
 /* Theme-aware, adjustable strength */
-:root { --rule-alpha: 50%; }   /* tweak to taste: 25–45% */
+:root { --rule-alpha: 60%; }   /* tweak to taste: 25–45% */
 
 .page__content h2 {
   border-bottom: 1px solid color-mix(in srgb, currentColor var(--rule-alpha), transparent);
