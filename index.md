@@ -87,6 +87,7 @@ with [Zhenkai Ran](https://www.zhenkairan.com/) and Xiangyu Lin
 
 ### Teaching Assistant, LSE
 - EE951 Corporate Finance and Strategy (Executive Program), 2023 - 2025
+- FM437 Financial Econometrics, 2024 - 2025
 
 <br>
 I was awarded the **[LSE Class Teacher Award](https://info.lse.ac.uk/staff/divisions/Eden-Centre/Education-awards/LSE-Class-Teacher-Awards)** in 2022, 2023, and 2024, and was nominated for the LSE Students' Union Outstanding Teaching Award in 2023. 
