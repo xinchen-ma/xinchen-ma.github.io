@@ -420,7 +420,7 @@ main > section:last-of-type {
 
 /* Homepage: add space above "Welcome!" */
 .page:has(#research) .page__content {
-  padding-top: 2em !important;
+  padding-top: 3em !important;
 }
 
 /* Larger name under the photo on computers */
