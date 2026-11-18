@@ -32,7 +32,7 @@ Email: xinchen.ma[at]monash.edu
 
 ### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541)
 
-with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian.com/home)**
+with [Huan Tang](https://huan-tang.com/) and [Bo Bian](https://www.bo-bian.com/home)
 
 **Revise & Resubmit** at _Journal of Political Economy_
 
@@ -46,7 +46,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 ### [Investing in Data Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7680002)
 
-with **[Zhenkai Ran](https://www.zhenkairan.com/)** and **Xiangyu Lin**
+with [Zhenkai Ran](https://www.zhenkairan.com/) and Xiangyu Lin
 
 <details class="abstract">
   <summary>Abstract</summary>
