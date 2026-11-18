@@ -29,8 +29,7 @@ Email: xinchen.ma[at]monash.edu
 
 - Presented at: EFA 2026, FIRS 2026, AFA 2026 PhD Poster, AFBC 2026, Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, Warwick PhD Workshop on FinTech 2025, LSE PhD Workshop
 
-
-### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541) with [Huan Tang](https://huan-tang.com/) and [Bo Bian](https://www.bo-bian.com/home)
+### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541) <span class="coauthors">with [Huan Tang](https://huan-tang.com/) and [Bo Bian](https://www.bo-bian.com/home)</span>
 
 **Revise & Resubmit** at _Journal of Political Economy_
 
