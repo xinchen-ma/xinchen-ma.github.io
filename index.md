@@ -75,14 +75,17 @@ with [Zhenkai Ran](https://www.zhenkairan.com/) and Xiangyu Lin
 
 
 ## Teaching {#teaching}
+### Chief Examiner, Monash University
+- BFX2140 Corporate Finance, 2026 - 2027
+- BFF5915 - Options, futures and risk management, 2027 
 
-### LSE Class Teacher
+### Class Teacher, LSE
 - FM300/310 Corporate Finance, Investments and Financial Markets, 2023 - 2024
 - FM212 Principles of Finance, 2021 - 2023
 - FM250 Finance (Summer School), 2023
 - FM255 Financial Markets and Portfolio Management (Summer School), 2021
 
-### LSE Teaching Assistant
+### Teaching Assistant, LSE
 - EE951 Corporate Finance and Strategy (Executive Program), 2023 - 2025
 
 <br>
