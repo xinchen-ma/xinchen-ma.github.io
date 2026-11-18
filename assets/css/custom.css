@@ -381,3 +381,21 @@ main > section:last-of-type {
     text-align: center;
   }
 }
+
+
+/* ===== Phone: fit CV, Research, Teaching in the header ===== */
+@media (max-width: 600px) {
+  /* remove the invisible empty home link that takes up space */
+  .greedy-nav .visible-links > li.masthead__menu-item--lg {
+    display: none !important;
+  }
+  .greedy-nav .visible-links > li {
+    padding-left: 0 !important;
+  }
+  /* tighter spacing, slightly smaller text */
+  .greedy-nav .visible-links a {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    font-size: 16px !important;
+  }
+}
