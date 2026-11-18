@@ -21,7 +21,8 @@ Email: xinchen.ma[at]monash.edu
 
 ### [Open Banking and Competition in Banks and Fintech: Evidence from Mobile Apps](/files/JMP_XinchenMA.pdf)
 
-<details class="abstract" open>
+<!-- <details class="abstract" open> -->
+<details class="abstract">
   <summary>Abstract</summary>
   <p>Open banking policies have been introduced by many governments to foster innovation in financial services, yet evidence on their effects on competition remains limited. I construct a novel dataset of fintech app source code and exploit cross-country variation in open banking availability within the same app to identify the impact of open banking on fintechs. I find that open banking significantly boosts fintech app usage and performance, with the strongest gains for data-intensive apps, fintech startups, and during the pandemic when access to traditional banking was limited. Textual analysis of app descriptions shows that incumbent banks most exposed to open banking suffer declines in loan issuance and income but respond strategically by raising fee intensity and improving earning efficiency. The findings are consistent with theories that open banking reduces barriers to entry by weakening banks' monopoly power over consumer data.   </p>
 </details>
@@ -35,7 +36,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 **Revise & Resubmit** at _Journal of Political Economy_
 
-<details class="abstract" open>
+<details class="abstract">
   <summary>Abstract</summary>
   <p>We study Apple’s 2020 privacy "nutrition" label policy, which mandates standardized disclosure of apps’ data collection practices. Exploiting the staggered release of labels and using Android versions as a control, we find that iOS apps experience a 14% drop in weekly downloads and a 15% drop in revenue, with stronger effects for more privacy-invasive apps. Extending the analysis to 90 countries, we document systematic heterogeneity in consumer responses explained by institutional and cultural factors. A complementary experiment shows that labels improve comprehension and align behavior with stated concerns, helping to resolve the privacy paradox.  </p>
 </details>
@@ -47,7 +48,7 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
 
 with **[Zhenkai Ran](https://www.zhenkairan.com/)** and **Xiangyu Lin**
 
-<details class="abstract" open>
+<details class="abstract">
   <summary>Abstract</summary>
   <p>Despite the growing importance of data, how much firms invest in it and how investors value it remain largely unknown. We measure this investment from how managers and analysts discuss data on earnings calls. The measure has risen 17-fold since 2007 and tracks what firms do: it predicts IT budgets, data-related patents, and data-worker hiring. Calibrated to IT budgets, data's share of corporate investment was about one-eighth in 2025. Across firms, a dollar of data capital carries 12 dollars of market value, far more than other organization capital, a premium that has grown since 2015, mostly at the largest firms.  </p>
 </details>
