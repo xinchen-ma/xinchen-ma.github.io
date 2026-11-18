@@ -26,7 +26,7 @@ Email: xinchen.ma[at]monash.edu
   <p>Open banking policies have been introduced by many governments to foster innovation in financial services, yet evidence on their effects on competition remains limited. I construct a novel dataset of fintech app source code and exploit cross-country variation in open banking availability within the same app to identify the impact of open banking on fintechs. I find that open banking significantly boosts fintech app usage and performance, with the strongest gains for data-intensive apps, fintech startups, and during the pandemic when access to traditional banking was limited. Textual analysis of app descriptions shows that incumbent banks most exposed to open banking suffer declines in loan issuance and income but respond strategically by raising fee intensity and improving earning efficiency. The findings are consistent with theories that open banking reduces barriers to entry by weakening banks' monopoly power over consumer data.   </p>
 </details>
 
-- **Presented at:** EFA 2026, FIRS 2026, AFA 2026 PhD Poster, AFBC 2026, Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, Warwick PhD Workshop on FinTech 2025, LSE PhD Workshop
+- Presented at: EFA 2026, FIRS 2026, AFA 2026 PhD Poster, AFBC 2026, Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, Warwick PhD Workshop on FinTech 2025, LSE PhD Workshop
 
 
 ### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541)
@@ -40,8 +40,8 @@ with **[Huan Tang](https://huan-tang.com/)** and **[Bo Bian](https://www.bo-bian
   <p>We study Apple’s 2020 privacy "nutrition" label policy, which mandates standardized disclosure of apps’ data collection practices. Exploiting the staggered release of labels and using Android versions as a control, we find that iOS apps experience a 14% drop in weekly downloads and a 15% drop in revenue, with stronger effects for more privacy-invasive apps. Extending the analysis to 90 countries, we document systematic heterogeneity in consumer responses explained by institutional and cultural factors. A complementary experiment shows that labels improve comprehension and align behavior with stated concerns, helping to resolve the privacy paradox.  </p>
 </details>
 
-- Best Paper Award at the Annual Conference in Digital Economics 2022 
-- **Presented at (selected):** SITE 2024, FIRS 2024, EFA 2023, AEA 2023, SFS Cavalcade North America 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop, Platform and Data Workshop at Bank of Canada
+- **Best Paper Award** at the Annual Conference in Digital Economics 2022 
+- Presented at (selected): SITE 2024, FIRS 2024, EFA 2023, AEA 2023, SFS Cavalcade North America 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop, Platform and Data Workshop at Bank of Canada
 
 ### [Investing in Data Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7680002)
 
@@ -52,7 +52,7 @@ with **[Zhenkai Ran](https://www.zhenkairan.com/)** and **Xiangyu Lin**
   <p>Despite the growing importance of data, how much firms invest in it and how investors value it remain largely unknown. We measure this investment from how managers and analysts discuss data on earnings calls. The measure has risen 17-fold since 2007 and tracks what firms do: it predicts IT budgets, data-related patents, and data-worker hiring. Calibrated to IT budgets, data's share of corporate investment was about one-eighth in 2025. Across firms, a dollar of data capital carries 12 dollars of market value, far more than other organization capital, a premium that has grown since 2015, mostly at the largest firms.  </p>
 </details>
 
-- **Presented at:** NBS Conference on AI for Finance 2026
+- Presented at: NBS Conference on AI for Finance 2026
 
 ## Work in Progress
 
@@ -63,7 +63,7 @@ with **[Zhenkai Ran](https://www.zhenkairan.com/)** and **Xiangyu Lin**
   <p>This paper studies the formation and capital-market implications of data-driven partnerships between firms. I assemble a news-based dataset of inter-firm, data-driven collaborations to map the landscape of corporate data sharing. I document the determinants of partnership formation, partner-pair characteristics, and associated stock-market reactions. Exploiting the EU’s General Data Protection Regulation (GDPR) as a plausibly exogenous shock in a difference-in-differences design, I show that GDPR-exposed firms form more data-driven partnerships, with the increase concentrated in US deals with non-EU partners, underscoring the privacy-data trade-off for EU firms. </p>
 </details>
 
-- **Presented at:** LSE PhD Workshop
+- Presented at: LSE PhD Workshop
 
 ### The Effect of App Tracking Transparency: An Analysis on App Monetization
 
