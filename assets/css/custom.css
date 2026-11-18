@@ -113,22 +113,24 @@ h2 {
   vertical-align: middle;
 }
 
-/* Links inside headings: keep underline, inherit color */
-h2 a, h3 a, h4 a {
-  color: inherit;        /* same color as the heading */
-  text-decoration: underline; 
-}
-
-/* Inline links in body text: inherit color, no underline */
-.page__content a,
-.page__content a:visited {
-  color: inherit;             /* same as surrounding text */
-  text-decoration: none;      /* remove underline */
-}
-
-/* Exception: links inside h3 headings = inherit color, keep underline */
-.page__content h3 a {
+/* Section heading links (h2, h4): same colour as the heading */
+h2 a, h4 a {
   color: inherit;
+  text-decoration: underline;
+}
+
+/* All other content links (coauthors etc.): text colour, no underline.
+   Paper titles (h3) are excluded, so they keep the theme's link blue. */
+.page__content a:not(h3 a),
+.page__content a:not(h3 a):visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Paper title links: navy blue, underlined */
+.page__content h3 a,
+.page__content h3 a:visited {
+  color: #00147e;   /* navyblue = RGB(0,20,126) */
   text-decoration: underline;
 }
 
