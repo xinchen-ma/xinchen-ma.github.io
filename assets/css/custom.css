@@ -398,4 +398,8 @@ main > section:last-of-type {
     margin-right: 10px !important;
     font-size: 16px !important;
   }
+  /* Show the name only once on phones */
+  .sidebar .author__name {
+    display: none !important;
+  }
 }
