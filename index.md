@@ -41,7 +41,7 @@ Email: xinchen.ma[at]monash.edu
 - **Best Paper Award** at the Annual Conference in Digital Economics 2022 
 - Presented at (selected): SITE 2024, FIRS 2024, EFA 2023, AEA 2023, SFS Cavalcade North America 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop, Platform and Data Workshop at Bank of Canada
 
-### [Investing in Data Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7680002) <span class="coauthors">with [Zhenkai Ran](https://www.zhenkairan.com/) and Xiangyu Lin</span>
+### [Investing in Data Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7680002) <span class="coauthors">with [Zhenkai Ran](https://www.zhenkairan.com/) and [Xiangyu Lin](https://sites.google.com/view/xiangyu-lin)</span>
 
 <details class="abstract" open>
   <summary>Abstract</summary>
