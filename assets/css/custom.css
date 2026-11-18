@@ -343,3 +343,8 @@ section#teaching {
 main > section:last-of-type {
   padding-bottom: 40vh;
 }
+
+/* Darker hover underline in the top nav (CV, Research, Teaching) */
+.greedy-nav .visible-links a::before {
+  background: color-mix(in srgb, currentColor var(--rule-alpha), transparent) !important;
+}
