@@ -17,7 +17,7 @@ Email: xinchen.ma[at]monash.edu
 
 <!-- [Curriculum Vitae](https://pages.github.com/) -->
 
-## Working Paper {#research}
+## Working Papers {#research}
 
 ### [Open Banking and Competition in Banks and Fintech: Evidence from Mobile Apps](/files/JMP_XinchenMA.pdf)
 
