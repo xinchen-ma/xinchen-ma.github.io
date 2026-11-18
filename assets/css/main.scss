@@ -113,3 +113,12 @@ body .page__inner-wrap,
 //   margin-top: 60px !important;
 // }
 
+/* Coauthors on the title line: smaller, not bold */
+.coauthors {
+  font-size: 0.7em;
+  font-weight: normal;
+}
+
+.coauthors a {
+  font-weight: normal;
+}
