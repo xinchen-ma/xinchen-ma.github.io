@@ -114,13 +114,22 @@ body .page__inner-wrap,
 // }
 
 /* Coauthors on the title line: same size, not bold, black, underlined names */
-.coauthors {
-  font-weight: normal;
-  color: #000;
+/* Coauthors on the title line: not bold, black, underline only on links */
+#main .page__content h3 .coauthors,
+#main .page__content h3 .coauthors a,
+#main .page__content h3 .coauthors a:visited,
+#main .page__content h3 .coauthors a:hover {
+  font-weight: normal !important;
+  color: #000 !important;
 }
 
-.coauthors a {
-  font-weight: normal;
-  color: #000;
-  text-decoration: underline;
+#main .page__content h3 .coauthors a {
+  text-decoration: underline !important;
+}
+
+/* Dark mode: use the normal text colour so the names stay readable */
+html[data-theme="dark"] #main .page__content h3 .coauthors,
+html[data-theme="dark"] #main .page__content h3 .coauthors a,
+html[data-theme="dark"] #main .page__content h3 .coauthors a:visited {
+  color: inherit !important;
 }
