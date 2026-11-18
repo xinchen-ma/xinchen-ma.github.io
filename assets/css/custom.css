@@ -194,7 +194,7 @@ html[data-theme="dark"] #main .page__content h3 a:visited {
 } */
 
 /* Use the same adaptive hairline under the top nav/header */
-:root { --rule-alpha: 50%; } /* keep or tweak to taste */
+:root { --rule-alpha: 60%; } /* keep or tweak to taste */
 
 /* First, neutralize any default borders/shadows to avoid double lines */
 .masthead,
