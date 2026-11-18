@@ -26,7 +26,7 @@ Email: xinchen.ma[at]monash.edu
   <p>Open banking policies have been introduced by many governments to foster innovation in financial services, yet evidence on their effects on competition remains limited. I construct a novel dataset of fintech app source code and exploit cross-country variation in open banking availability within the same app to identify the impact of open banking on fintechs. I find that open banking significantly boosts fintech app usage and performance, with the strongest gains for data-intensive apps, fintech startups, and during the pandemic when access to traditional banking was limited. Textual analysis of app descriptions shows that incumbent banks most exposed to open banking suffer declines in loan issuance and income but respond strategically by raising fee intensity and improving earning efficiency. The findings are consistent with theories that open banking reduces barriers to entry by weakening banks' monopoly power over consumer data.   </p>
 </details>
 
-- **Presented at:** EFA 2026, FIRS 2026, AFA 2026 PhD Poster, Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, Warwick PhD Workshop on FinTech 2025, LSE PhD Workshop
+- **Presented at:** EFA 2026, FIRS 2026, AFA 2026 PhD Poster, AFBC 2026, Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, Warwick PhD Workshop on FinTech 2025, LSE PhD Workshop
 
 
 ### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541)
@@ -52,7 +52,7 @@ with **[Zhenkai Ran](https://www.zhenkairan.com/)** and **Xiangyu Lin**
   <p>Despite the growing importance of data, how much firms invest in it and how investors value it remain largely unknown. We measure this investment from how managers and analysts discuss data on earnings calls. The measure has risen 17-fold since 2007 and tracks what firms do: it predicts IT budgets, data-related patents, and data-worker hiring. Calibrated to IT budgets, data's share of corporate investment was about one-eighth in 2025. Across firms, a dollar of data capital carries 12 dollars of market value, far more than other organization capital, a premium that has grown since 2015, mostly at the largest firms.  </p>
 </details>
 
-- **Presented at:** 2026 NBS Conference on AI for Finance (Scheduled)
+- **Presented at:** 2026 NBS Conference on AI for Finance
 
 ## Work in Progress
 
