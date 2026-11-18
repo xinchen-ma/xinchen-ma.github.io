@@ -434,3 +434,8 @@ main > section:last-of-type {
 .sidebar .author__name {
   font-weight: bold !important;
 }
+
+/* Section headings (Working Papers, Teaching, …): slightly smaller */
+.page__content h2 {
+  font-size: 1.15em !important;
+}
