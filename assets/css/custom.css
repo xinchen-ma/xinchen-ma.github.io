@@ -138,6 +138,7 @@ h2 a, h4 a {
 html[data-theme="dark"] #main .page__content h3 a,
 html[data-theme="dark"] #main .page__content h3 a:visited {
   color: #b8d4ff !important;
+  text-decoration: underline;
 }
 
 /* Mobile: hide author social links (button + icons) */
