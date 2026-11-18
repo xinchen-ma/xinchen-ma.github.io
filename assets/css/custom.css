@@ -270,7 +270,7 @@ details.abstract { margin: .5rem 0 1rem; }
 /* === Uniform Abstract toggles (works on iOS/Android/desktop) === */
 details.abstract > summary {
   cursor: pointer;
-  font-weight: 600;
+  font-weight: normal;
   list-style: none;         /* remove default list bullet */
   -webkit-appearance: none; /* Safari */
   appearance: none;
