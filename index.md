@@ -30,9 +30,7 @@ Email: xinchen.ma[at]monash.edu
 - Presented at: EFA 2026, FIRS 2026, AFA 2026 PhD Poster, AFBC 2026, Trans-Atlantic Doctoral Conference 2025, HEC Paris Finance PhD Workshop 2025, Warwick PhD Workshop on FinTech 2025, LSE PhD Workshop
 
 
-### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541)
-
-with [Huan Tang](https://huan-tang.com/) and [Bo Bian](https://www.bo-bian.com/home)
+### [The Supply and Demand for Data Privacy: Evidence from Mobile Apps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541) with [Huan Tang](https://huan-tang.com/) and [Bo Bian](https://www.bo-bian.com/home)
 
 **Revise & Resubmit** at _Journal of Political Economy_
 
@@ -44,9 +42,7 @@ with [Huan Tang](https://huan-tang.com/) and [Bo Bian](https://www.bo-bian.com/h
 - **Best Paper Award** at the Annual Conference in Digital Economics 2022 
 - Presented at (selected): SITE 2024, FIRS 2024, EFA 2023, AEA 2023, SFS Cavalcade North America 2023, Colorado Finance Summit 2022, CEPR Household Finance Seminar, TSE-Yale Regulating the Digital Economy Workshop, Platform and Data Workshop at Bank of Canada
 
-### [Investing in Data Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7680002)
-
-with [Zhenkai Ran](https://www.zhenkairan.com/) and Xiangyu Lin
+### [Investing in Data Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7680002) with [Zhenkai Ran](https://www.zhenkairan.com/) and Xiangyu Lin
 
 <details class="abstract" open>
   <summary>Abstract</summary>
