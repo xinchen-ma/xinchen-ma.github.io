@@ -40,6 +40,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Senior Lecturer of Finance"
   employer         : "Monash University"
+  employer_url     : "https://www.monash.edu/business/banking-and-finance"
   location         : "Melbourne, Australia"
   uri              : "https://www.monash.edu/business/baf/our-people/staff-directory"
   # ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4982387"
