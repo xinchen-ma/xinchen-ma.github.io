@@ -428,7 +428,4 @@ main > section:last-of-type {
   .sidebar .author__name {
     font-size: 1.4em !important;
   }
-  .sidebar .author__bio {
-    font-size: 1.05em !important;   /* "Senior Lecturer of Finance", optional */
-  }
 }
