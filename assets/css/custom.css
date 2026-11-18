@@ -134,6 +134,12 @@ h2 a, h4 a {
   text-decoration: underline;
 }
 
+/* Paper title links in dark mode: light blue */
+html[data-theme="dark"] #main .page__content h3 a,
+html[data-theme="dark"] #main .page__content h3 a:visited {
+  color: #b8d4ff !important;
+}
+
 /* Mobile: hide author social links (button + icons) */
 @media (max-width: 860px) {
   .author__urls-wrapper,
