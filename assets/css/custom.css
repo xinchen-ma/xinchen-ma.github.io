@@ -370,9 +370,18 @@ main > section:last-of-type {
     margin: 0 auto !important;
   }
   .sidebar img.author__avatar {
-    width: 160px !important;
+    width: 200px !important;      /* photo size, was 160px */
     display: block;
     margin: 0 auto;
+  }
+
+  /* Name and title under the photo */
+  .sidebar .author__name {
+    font-size: 1.3em !important;  /* "Xinchen Ma" */
+    margin-top: 0.5em !important;
+  }
+  .sidebar .author__bio {
+    font-size: 1em !important;    /* "Senior Lecturer of Finance" */
   }
   .sidebar .author__content {
     display: block;
