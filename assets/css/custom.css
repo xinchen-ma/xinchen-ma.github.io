@@ -124,7 +124,7 @@ h2 a, h4 a {
 .page__content a:not(h3 a),
 .page__content a:not(h3 a):visited {
   color: inherit;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* Paper title links: navy blue, underlined */
