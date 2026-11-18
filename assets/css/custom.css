@@ -348,3 +348,36 @@ main > section:last-of-type {
 .greedy-nav .visible-links a::before {
   background: color-mix(in srgb, currentColor var(--rule-alpha), transparent) !important;
 }
+
+/* ===== Phone fixes ===== */
+@media (max-width: 600px) {
+  /* Left-align text on phones: no stretched gaps, no hyphenated words */
+  .page__content p,
+  .page__content li {
+    text-align: left !important;
+    hyphens: manual !important;
+  }
+
+  /* Centre the photo, name and title */
+  .sidebar {
+    width: 100% !important;
+    text-align: center;
+    margin-top: 0 !important;
+  }
+  .sidebar div.author__avatar {
+    display: block;
+    float: none !important;
+    margin: 0 auto !important;
+  }
+  .sidebar img.author__avatar {
+    width: 160px !important;
+    display: block;
+    margin: 0 auto;
+  }
+  .sidebar .author__content {
+    display: block;
+    width: 100% !important;
+    padding-left: 0 !important;
+    text-align: center;
+  }
+}
