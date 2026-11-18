@@ -128,9 +128,9 @@ h2 a, h4 a {
 }
 
 /* Paper title links: navy blue, underlined */
-.page__content h3 a,
-.page__content h3 a:visited {
-  color: #00147e;   /* navyblue = RGB(0,20,126) */
+#main .page__content h3 a,
+#main .page__content h3 a:visited {
+  color: #00147e !important;   /* navyblue = RGB(0,20,126) */
   text-decoration: underline;
 }
 
