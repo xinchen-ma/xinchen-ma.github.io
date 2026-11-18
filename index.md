@@ -9,7 +9,7 @@ sidebar: null
 
 Welcome! 
   
-I am a Senior Lecturer (equivalent to Assistant Professor) at Monash University, Monash Business School. I received my PhD in Finance at the London School of Economics and Political Science (LSE) in 2026. My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**. 
+I am a Senior Lecturer (equivalent to Assistant Professor) at Monash University, Monash Business School. I received my PhD in Finance at London School of Economics and Political Science (LSE) in 2026. My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**. 
 
 Email: xinchen.ma[at]monash.edu
 
