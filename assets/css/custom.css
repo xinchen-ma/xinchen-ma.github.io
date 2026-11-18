@@ -120,7 +120,8 @@ h2 a, h3 a, h4 a {
 }
 
 /* Inline links in body text: inherit color, no underline */
-.page__content a {
+.page__content a,
+.page__content a:visited {
   color: inherit;             /* same as surrounding text */
   text-decoration: none;      /* remove underline */
 }
