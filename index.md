@@ -52,7 +52,7 @@ with **[Zhenkai Ran](https://www.zhenkairan.com/)** and **Xiangyu Lin**
   <p>Despite the growing importance of data, how much firms invest in it and how investors value it remain largely unknown. We measure this investment from how managers and analysts discuss data on earnings calls. The measure has risen 17-fold since 2007 and tracks what firms do: it predicts IT budgets, data-related patents, and data-worker hiring. Calibrated to IT budgets, data's share of corporate investment was about one-eighth in 2025. Across firms, a dollar of data capital carries 12 dollars of market value, far more than other organization capital, a premium that has grown since 2015, mostly at the largest firms.  </p>
 </details>
 
-- **Presented at:** 2026 NBS Conference on AI for Finance
+- **Presented at:** NBS Conference on AI for Finance 2026
 
 ## Work in Progress
 
