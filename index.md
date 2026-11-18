@@ -7,7 +7,7 @@ author_profile: true   # set to false if you don't want the sidebar/photo
 sidebar: null
 ---
 
-Welcome! 
+**Welcome!** 
   
 I am a Senior Lecturer (Assistant Professor) of Finance at Monash University, Department of Banking and Finance. My research interests are **Corporate Finance**, **Data Economy**, **FinTech**, and **Banking**. I received my PhD in Finance at London School of Economics and Political Science (LSE) in 2026. 
 
