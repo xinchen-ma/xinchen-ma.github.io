@@ -429,3 +429,8 @@ main > section:last-of-type {
     font-size: 1.4em !important;
   }
 }
+
+/* Bold name under the photo (computer and phone) */
+.sidebar .author__name {
+  font-weight: bold !important;
+}
