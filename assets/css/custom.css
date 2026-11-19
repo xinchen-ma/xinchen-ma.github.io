@@ -154,7 +154,7 @@ html[data-theme="dark"] #main .page__content h3 a:visited {
 .page__content li {
   text-align: justify;
   text-justify: inter-word;   /* helps in some browsers */
-  hyphens: auto;              /* soft hyphenation for nicer breaks */
+  hyphens: none;              /* soft hyphenation for nicer breaks */
 }
 
 /* Keep headings, code, quotes left-aligned */
